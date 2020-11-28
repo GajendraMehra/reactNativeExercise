@@ -8,8 +8,24 @@ import {
 const App =()=>{
   return (
     <>
-    <Text>First change here </Text>
+    <View style={
+    [ styles.container,
+    { backgroundColor:"#123abc"}
+    ]
+    }>
+      <Text>First change here </Text>
+    </View>
     </>
   );
 }
 export default App;
+
+const styles= StyleSheet.create({
+  container:{
+    flex:1,
+    alignItems:'center',
+    justifyContent:'center',
+    // color:'#ffffff'
+   
+  }
+})
