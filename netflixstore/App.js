@@ -39,7 +39,7 @@ function App() {
          headerStyle:{
            backgroundColor:"#0f4c75"
          },
-         title:"Netflix App add",
+         title:"Netflix App Add",
          headerTitleStyle:{
            textAlign:"center",
            color:"#00b7c2"
@@ -57,7 +57,7 @@ function App() {
            backgroundColor:"#0f4c75"
          },
       
-         title:"Netflix App Editt",
+         title:"Netflix App Edit",
          headerTitleStyle:{
            textAlign:"center",
            color:"#00b7c2"
