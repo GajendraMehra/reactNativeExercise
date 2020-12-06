@@ -23,6 +23,7 @@ switch (action.type) {
         
 
     default:
+        return [];
         break;
 }
 }
